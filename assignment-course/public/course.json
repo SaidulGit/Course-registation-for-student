@@ -1,0 +1,68 @@
+[
+    {
+      "title": "Introduction to Computer Science",
+      "description": "Explore the fundamentals of computer science in this beginner-friendly course. Topics include algorithms, programming, and data structures.",
+      "price": "199.99",
+      "credit_duration": "3",
+      "img": "https://example.com/course1.jpg"
+    },
+    {
+      "title": "Financial Accounting Basics",
+      "description": "Learn the essentials of financial accounting, including balance sheets, income statements, and financial analysis.",
+      "price": "149.99",
+      "credit_duration": "2",
+      "img": "https://example.com/course2.jpg"
+    },
+    {
+      "title": "History of Art and Architecture",
+      "description": "Take a journey through the history of art and architecture, from ancient civilizations to modern masterpieces.",
+      "price": "229.99",
+      "credit_duration": "4",
+      "img": "https://example.com/course3.jpg"
+    },
+    {
+      "title": "Business Management Strategies",
+      "description": "Master key business management strategies, including leadership, decision-making, and organizational behavior.",
+      "price": "179.99",
+      "credit_duration": "3",
+      "img": "https://example.com/course4.jpg"
+    },
+    {
+      "title": "Environmental Science and Sustainability",
+      "description": "Explore the critical issues of environmental science and sustainability to help build a greener future.",
+      "price": "199.99",
+      "credit_duration": "3",
+      "img": "https://example.com/course5.jpg"
+    },
+    {
+          "title": "Advanced Mathematics: Calculus III",
+          "description": "Dive deep into calculus with topics like multivariable calculus, vector calculus, and applications in physics and engineering.",
+          "price": "249.99",
+          "credit_duration": "4",
+          "img": "https://example.com/course6.jpg"
+        },
+        {
+          "title": "Introduction to Psychology",
+          "description": "Explore the fascinating world of human behavior, cognition, and psychological theories in this introductory psychology course.",
+          "price": "179.99",
+          "credit_duration": "3",
+          "img": "https://example.com/course7.jpg"
+        },
+        {
+          "title": "Digital Marketing Strategies",
+          "description": "Learn digital marketing techniques, including SEO, social media, and content marketing, to boost your business's online presence.",
+          "price": "199.99",
+          "credit_duration": "3",
+          "img": "https://example.com/course8.jpg"
+        },
+        {
+          "title": "Introduction to Astrophysics",
+          "description": "Embark on a journey through the universe, exploring celestial objects, cosmology, and the mysteries of space and time.",
+          "price": "229.99",
+          "credit_duration": "4",
+          "img": "https://example.com/course9.jpg"
+        }
+      
+      
+  ]
+  
